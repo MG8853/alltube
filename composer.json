@@ -1,5 +1,5 @@
 {
-  "name": "rudloff/alltube",
+  "name": "MG8853/alltube",
   "type": "project",
   "description": "HTML GUI for youtube-dl",
   "homepage": "http://alltubedownload.net/",
@@ -16,6 +16,12 @@
       "email": "contact@olivierhaquette.fr",
       "homepage": "http://olivierhaquette.fr/",
       "role": "Designer"
+    },
+    {
+      "name": "MG8853",
+      "email": "panel.master@m.servg.red",
+      "homepage": "https://www.servg.red/",
+      "role": "Custom Developer&Designer"
     }
   ],
   "require": {
