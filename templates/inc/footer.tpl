@@ -1,18 +1,12 @@
 </div>
 <footer class="small-font">
     <div class="footer_wrapper">
-        {$dev="<a rel='author' target='blank'
-            href='http://rudloff.pro/'>
-            Pierre Rudloff
-        </a>"}
-        {t params=['@dev'=>$dev]}Code by @dev{/t}
+        {$dev="<a rel='author' target='blank' href='https://github.com/MG8853/alltube'>AllTube Fork</a>"}
+        {t params=['@MG8853'=>$dev]}Code by AllTube{/t}
 
         &middot;
 
-        {$designer="<a rel='author' target='blank'
-            href='http://olivierhaquette.fr'>
-            Olivier Haquette
-        </a>"}
+        {$designer="<a rel='author' target='blank' href='https://tube.servg.red'>MG8853</a>"}
         {t params=['@designer' => $designer]}Design by @designer{/t}
 
         &middot;
@@ -23,9 +17,7 @@
 
         &middot;
 
-        {$youtubedl="<a href='http://ytdl-org.github.io/youtube-dl/'>
-            youtube-dl
-        </a>"}
+        {$youtubedl="<a href='http://ytdl-org.github.io/youtube-dl/'>youtube-dl</a>"}
         {t params=['@youtubedl'=>$youtubedl]}Based on @youtubedl{/t}
 
         &middot;

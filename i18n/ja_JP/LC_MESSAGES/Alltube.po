@@ -11,7 +11,7 @@ msgstr ""
 
 #: templates/inc/footer.tpl:21
 msgid "Get the code"
-msgstr ""
+msgstr "GitHub"
 
 #: templates/inc/footer.tpl:29
 msgid "Based on @youtubedl"
@@ -19,35 +19,35 @@ msgstr ""
 
 #: templates/inc/footer.tpl:33
 msgid "Donate using Liberapay"
-msgstr ""
+msgstr "このサーバーは寄付で運営しています"
 
 #: templates/inc/footer.tpl:35
 msgid "Donate"
-msgstr ""
+msgstr "寄付"
 
 #: templates/inc/header.tpl:4
 msgid "Switch language"
-msgstr ""
+msgstr "言語を切り替える"
 
 #: templates/inc/header.tpl:8
 msgid "Set language"
-msgstr ""
+msgstr "言語を設定する"
 
 #: templates/info.tpl:11
 msgid "You are going to download @title."
-msgstr ""
+msgstr "検索結果： @title"
 
 #: templates/info.tpl:29
 msgid "Available formats:"
-msgstr ""
+msgstr "タイプ："
 
 #: templates/info.tpl:31
 msgid "Generic formats"
-msgstr ""
+msgstr "一般的な形式"
 
 #: templates/info.tpl:35
 msgid "Best"
-msgstr ""
+msgstr "最高"
 
 #: templates/info.tpl:36
 msgid "Remux best video with best audio"
@@ -55,14 +55,14 @@ msgstr ""
 
 #: templates/info.tpl:37
 msgid "Worst"
-msgstr ""
+msgstr "最悪"
 
 #: templates/info.tpl:42
 msgid "Detailed formats"
-msgstr ""
+msgstr "詳細なフォーマット"
 
 #: templates/info.tpl:86
-msgid "Stream the video through the server"
+msgid "サーバーを介してビデオをストリーミング"
 msgstr ""
 
 #: templates/info.tpl:92

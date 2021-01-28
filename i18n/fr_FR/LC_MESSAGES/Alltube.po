@@ -33,8 +33,8 @@ msgid "Set language"
 msgstr "Choisir la langue"
 
 #: templates/inc/footer.tpl:8
-msgid "Code by @dev"
-msgstr "Développé par @dev"
+msgid "Code by @MG8853"
+msgstr "Développé par @MG8853"
 
 #: templates/inc/footer.tpl:16
 msgid "Design by @designer"
