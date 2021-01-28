@@ -1,12 +1,12 @@
 </div>
 <footer class="small-font">
     <div class="footer_wrapper">
-        {$dev="<a rel='author' target='blank' href='https://github.com/MG8853/alltube'>AllTube Fork</a>"}
-        {t params=['@dev'=>$dev]}Code by AllTube{/t}
+        {$dev="<a rel='author' target='blank'href='http://rudloff.pro/'>Pierre Rudloff</a>"}
+        {t params=['@dev'=>$dev]}Code by @dev{/t}
 
         &middot;
 
-        {$designer="<a rel='author' target='blank' href='https://tube.servg.red'>MG8853</a>"}
+        {$designer="<a rel='author' target='blank'href='http://olivierhaquette.fr'>Olivier Haquette</a>"}
         {t params=['@designer' => $designer]}Design by @designer{/t}
 
         &middot;
