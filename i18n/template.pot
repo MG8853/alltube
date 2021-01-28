@@ -2,7 +2,7 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: templates/inc/footer.tpl:8
-msgid "Code by @MG8853"
+msgid "Code by @dev"
 msgstr ""
 
 #: templates/inc/footer.tpl:16

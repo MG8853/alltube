@@ -2,7 +2,7 @@
 <footer class="small-font">
     <div class="footer_wrapper">
         {$dev="<a rel='author' target='blank' href='https://github.com/MG8853/alltube'>AllTube Fork</a>"}
-        {t params=['@MG8853'=>$dev]}Code by AllTube{/t}
+        {t params=['@dev'=>$dev]}Code by AllTube{/t}
 
         &middot;
 
